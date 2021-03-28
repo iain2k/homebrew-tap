@@ -4,7 +4,7 @@ Add this tap to [HomeBrew](https://brew.sh) using.
 
 `brew tap iain2k/tap`
 
-## Formulas
+## Formula
 
 **sshpass** 
 
