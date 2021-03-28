@@ -1,8 +1,6 @@
 # homebrew-tap
-Homebrew Tap
 
-
-Install this tap using into[HomeBrew](https://brew.sh)
+Add this tap to [HomeBrew](https://brew.sh) using.
 
 `brew tap iain2k/tap`
 
@@ -10,7 +8,7 @@ Install this tap using into[HomeBrew](https://brew.sh)
 
 **sshpass** 
 
-This formual installs `sshpass` as HomeBrew disables this Forumal for valid security reasons.  I use it purely to bootstrap hosts using [Ansible](https://ansible.com)
+This formula installs [sshpass](http://sourceforge.net/projects/sshpass) as HomeBrew disables this Formula for valid security reasons.  I use it purely to bootstrap hosts using [Ansible](https://ansible.com)
 
 > brew -v install sshpass                                        
 > ==> Searching for similarly named formulae...
